@@ -43,8 +43,8 @@ sala_chat/
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/sala_chat.git
-cd sala_chat
+git clone https://github.com/Sesuli/WEBSOCKETS.git
+cd WEBSOCKETS
 ```
 
 ### 2. Instalar Dependencias de Python
@@ -55,7 +55,7 @@ pip install websockets
 
 ### 3. Configurar XAMPP
 
-1. Copia la carpeta `sala_chat` a `C:\xampp\htdocs\`
+1. Copia la carpeta `WEBSOCKETS` a `C:\xampp\htdocs\`
 2. Inicia Apache en XAMPP Control Panel
 
 ## 🎯 Uso
@@ -63,7 +63,7 @@ pip install websockets
 ### 1. Iniciar el Servidor WebSocket
 
 ```bash
-cd C:\xampp\htdocs\sala_chat
+cd C:\xampp\htdocs\WEBSOCKETS
 python server.py
 ```
 
@@ -75,7 +75,7 @@ Deberías ver:
 ### 2. Abrir el Cliente Web
 
 1. Abre tu navegador
-2. Ve a `http://localhost/sala_chat/client.php`
+2. Ve a `http://localhost/WEBSOCKETS/client.php`
 3. Ingresa tu alias (nombre de usuario)
 4. ¡Comienza a chatear!
 
@@ -167,7 +167,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👨‍💻 Autor
 
-**Tu Nombre**
+**Thiago Gutiérrez**
 - GitHub: [@Sesuli](https://github.com/Sesuli)
 - Email: gutierrezthiago610@gmail.com
 
